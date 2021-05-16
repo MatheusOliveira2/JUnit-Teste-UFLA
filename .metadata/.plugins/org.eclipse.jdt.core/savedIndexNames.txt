@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Users\mathe\Desktop\teste-junit\.metadata\.plugins\org.eclipse.jdt.core
+569949065.index
+1695662857.index
+2695693080.index
+2977864319.index
+3071112241.index
+1630826159.index
+3626917187.index
+3597354839.index
+845350681.index
+559914871.index
+478333625.index
+3658838903.index
+422527993.index
+3635681087.index
+3716553078.index
+1782964426.index
